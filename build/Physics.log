@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.22)  7 SEP 2023 12:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.22)  7 SEP 2023 12:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -661,11 +661,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {C:/Users/lachl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
 
-] (c:\Users\lachl\Proton Drive\3dFx3Z2w7VxlWxPhpZUNIZpInRna\My files\my textbooks\Physics\build\Physics.toc)
+] (c:\Users\lachl\Proton Drive\3dFx3Z2w7VxlWxPhpZUNIZpInRna\My files\my textbooks\Physics\build\Physics.toc [3])
 \tf@toc=\write5
 \openout5 = `Physics.toc'.
 
-<./images/formula-book.pdf, id=49, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=331, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
 <use ./images/formula-book.pdf>
 Package pdftex.def Info: ./images/formula-book.pdf  used on input line 28.
@@ -674,7 +674,7 @@ File: ./images/formula-book.pdf Graphic file (type pdf)
 <use ./images/formula-book.pdf>
 Package pdftex.def Info: ./images/formula-book.pdf  used on input line 28.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<./images/formula-book.pdf, id=52, page=1, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=334, page=1, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
 <use ./images/formula-book.pdf, page 1>
 Package pdftex.def Info: ./images/formula-book.pdf , page1 used on input line 28.
@@ -683,7 +683,7 @@ File: ./images/formula-book.pdf Graphic file (type pdf)
 <use ./images/formula-book.pdf, page 1>
 Package pdftex.def Info: ./images/formula-book.pdf , page1 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [3]
+ [4]
 File: ./images/formula-book.pdf Graphic file (type pdf)
 <use ./images/formula-book.pdf, page 1>
 Package pdftex.def Info: ./images/formula-book.pdf , page1 used on input line 28.
@@ -695,144 +695,153 @@ Package pdftex.def Info: ./images/formula-book.pdf , page1 used on input line 28
 File: ./images/formula-book.pdf Graphic file (type pdf)
 <use ./images/formula-book.pdf, page 1>
 Package pdftex.def Info: ./images/formula-book.pdf , page1 used on input line 28.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [4 <./images/formula-book.pdf>]
-<./images/formula-book.pdf, id=76, page=2, 597.50829pt x 845.0471pt>
-File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 2>
-Package pdftex.def Info: ./images/formula-book.pdf , page2 used on input line 28.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 2>
-Package pdftex.def Info: ./images/formula-book.pdf , page2 used on input line 28.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 2>
-Package pdftex.def Info: ./images/formula-book.pdf , page2 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [5 <./images/formula-book.pdf>]
-<./images/formula-book.pdf, id=129, page=3, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=356, page=2, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 3>
-Package pdftex.def Info: ./images/formula-book.pdf , page3 used on input line 28.
+<use ./images/formula-book.pdf, page 2>
+Package pdftex.def Info: ./images/formula-book.pdf , page2 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 3>
-Package pdftex.def Info: ./images/formula-book.pdf , page3 used on input line 28.
+<use ./images/formula-book.pdf, page 2>
+Package pdftex.def Info: ./images/formula-book.pdf , page2 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 3>
-Package pdftex.def Info: ./images/formula-book.pdf , page3 used on input line 28.
+<use ./images/formula-book.pdf, page 2>
+Package pdftex.def Info: ./images/formula-book.pdf , page2 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [6 <./images/formula-book.pdf>]
-<./images/formula-book.pdf, id=169, page=4, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=409, page=3, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 4>
-Package pdftex.def Info: ./images/formula-book.pdf , page4 used on input line 28.
+<use ./images/formula-book.pdf, page 3>
+Package pdftex.def Info: ./images/formula-book.pdf , page3 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 4>
-Package pdftex.def Info: ./images/formula-book.pdf , page4 used on input line 28.
+<use ./images/formula-book.pdf, page 3>
+Package pdftex.def Info: ./images/formula-book.pdf , page3 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 4>
-Package pdftex.def Info: ./images/formula-book.pdf , page4 used on input line 28.
+<use ./images/formula-book.pdf, page 3>
+Package pdftex.def Info: ./images/formula-book.pdf , page3 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [7 <./images/formula-book.pdf>]
-<./images/formula-book.pdf, id=223, page=5, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=450, page=4, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 5>
-Package pdftex.def Info: ./images/formula-book.pdf , page5 used on input line 28.
+<use ./images/formula-book.pdf, page 4>
+Package pdftex.def Info: ./images/formula-book.pdf , page4 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 5>
-Package pdftex.def Info: ./images/formula-book.pdf , page5 used on input line 28.
+<use ./images/formula-book.pdf, page 4>
+Package pdftex.def Info: ./images/formula-book.pdf , page4 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 5>
-Package pdftex.def Info: ./images/formula-book.pdf , page5 used on input line 28.
+<use ./images/formula-book.pdf, page 4>
+Package pdftex.def Info: ./images/formula-book.pdf , page4 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [8 <./images/formula-book.pdf>]
-<./images/formula-book.pdf, id=249, page=6, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=503, page=5, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 6>
-Package pdftex.def Info: ./images/formula-book.pdf , page6 used on input line 28.
+<use ./images/formula-book.pdf, page 5>
+Package pdftex.def Info: ./images/formula-book.pdf , page5 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 6>
-Package pdftex.def Info: ./images/formula-book.pdf , page6 used on input line 28.
+<use ./images/formula-book.pdf, page 5>
+Package pdftex.def Info: ./images/formula-book.pdf , page5 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 6>
-Package pdftex.def Info: ./images/formula-book.pdf , page6 used on input line 28.
+<use ./images/formula-book.pdf, page 5>
+Package pdftex.def Info: ./images/formula-book.pdf , page5 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [9 <./images/formula-book.pdf>]
-<./images/formula-book.pdf, id=297, page=7, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=529, page=6, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 7>
-Package pdftex.def Info: ./images/formula-book.pdf , page7 used on input line 28.
+<use ./images/formula-book.pdf, page 6>
+Package pdftex.def Info: ./images/formula-book.pdf , page6 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 7>
-Package pdftex.def Info: ./images/formula-book.pdf , page7 used on input line 28.
+<use ./images/formula-book.pdf, page 6>
+Package pdftex.def Info: ./images/formula-book.pdf , page6 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 7>
-Package pdftex.def Info: ./images/formula-book.pdf , page7 used on input line 28.
+<use ./images/formula-book.pdf, page 6>
+Package pdftex.def Info: ./images/formula-book.pdf , page6 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [10 <./images/formula-book.pdf>]
-<./images/formula-book.pdf, id=330, page=8, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=577, page=7, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 8>
-Package pdftex.def Info: ./images/formula-book.pdf , page8 used on input line 28.
+<use ./images/formula-book.pdf, page 7>
+Package pdftex.def Info: ./images/formula-book.pdf , page7 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 8>
-Package pdftex.def Info: ./images/formula-book.pdf , page8 used on input line 28.
+<use ./images/formula-book.pdf, page 7>
+Package pdftex.def Info: ./images/formula-book.pdf , page7 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 8>
-Package pdftex.def Info: ./images/formula-book.pdf , page8 used on input line 28.
+<use ./images/formula-book.pdf, page 7>
+Package pdftex.def Info: ./images/formula-book.pdf , page7 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [11 <./images/formula-book.pdf>]
-<./images/formula-book.pdf, id=335, page=9, 597.50829pt x 845.0471pt>
+<./images/formula-book.pdf, id=610, page=8, 597.50829pt x 845.0471pt>
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 9>
-Package pdftex.def Info: ./images/formula-book.pdf , page9 used on input line 28.
+<use ./images/formula-book.pdf, page 8>
+Package pdftex.def Info: ./images/formula-book.pdf , page8 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 9>
-Package pdftex.def Info: ./images/formula-book.pdf , page9 used on input line 28.
+<use ./images/formula-book.pdf, page 8>
+Package pdftex.def Info: ./images/formula-book.pdf , page8 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./images/formula-book.pdf Graphic file (type pdf)
-<use ./images/formula-book.pdf, page 9>
-Package pdftex.def Info: ./images/formula-book.pdf , page9 used on input line 28.
+<use ./images/formula-book.pdf, page 8>
+Package pdftex.def Info: ./images/formula-book.pdf , page8 used on input line 28.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [12 <./images/formula-book.pdf>]
-Chapter 1.
-[13
-
-] [14
+<./images/formula-book.pdf, id=615, page=9, 597.50829pt x 845.0471pt>
+File: ./images/formula-book.pdf Graphic file (type pdf)
+<use ./images/formula-book.pdf, page 9>
+Package pdftex.def Info: ./images/formula-book.pdf , page9 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ./images/formula-book.pdf Graphic file (type pdf)
+<use ./images/formula-book.pdf, page 9>
+Package pdftex.def Info: ./images/formula-book.pdf , page9 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ./images/formula-book.pdf Graphic file (type pdf)
+<use ./images/formula-book.pdf, page 9>
+Package pdftex.def Info: ./images/formula-book.pdf , page9 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [13 <./images/formula-book.pdf>] [14
 
 ]
-Chapter 2.
+Chapter 1.
 [15] [16
 
 ]
-Chapter 3.
+Chapter 2.
 [17] [18
 
 ]
-Chapter 4.
+Chapter 3.
 [19] [20
 
 ]
-Chapter 5.
+Chapter 4.
 [21] [22
 
 ]
+Chapter 5.
+[23] [24
+
+]
 Chapter 6.
-[23] (c:\Users\lachl\Proton Drive\3dFx3Z2w7VxlWxPhpZUNIZpInRna\My files\my textbooks\Physics\build\Physics.aux)
+c:/Users/lachl/Proton Drive/3dFx3Z2w7VxlWxPhpZUNIZpInRna/My files/my textbooks/Physics/Physics.tex:133: Undefined control sequence.
+l.133 \subsetion
+                {Total internal reflection}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[25] (c:\Users\lachl\Proton Drive\3dFx3Z2w7VxlWxPhpZUNIZpInRna\My files\my textbooks\Physics\build\Physics.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
@@ -844,21 +853,21 @@ Package rerunfilecheck Warning: File `Physics.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Physics.out':
-(rerunfilecheck)             Before: 2F80580E854F3C0DC45D7737482EB47A;749
-(rerunfilecheck)             After:  CBBC28394920CC5ACB26247009813D0F;2111.
+(rerunfilecheck)             Before: 8B32FFAB61877944536101EB8B9ECE38;7134
+(rerunfilecheck)             After:  D5E0C1FDA5182ADC3AE442B7427F6529;7129.
  ) 
 Here is how much of TeX's memory you used:
- 32372 strings out of 475502
- 755395 string characters out of 5761813
- 1921248 words of memory out of 5000000
- 53066 multiletter control sequences out of 15000+600000
+ 32473 strings out of 475502
+ 756771 string characters out of 5761813
+ 1934248 words of memory out of 5000000
+ 53121 multiletter control sequences out of 15000+600000
  567665 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,17n,103p,809b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lachl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/lachl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lachl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lachl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lachl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/lachl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/lachl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:\Users\lachl\Proton Drive\3dFx3Z2w7VxlWxPhpZUNIZpInRna\My files\my textbooks\Physics\build\Physics.pdf" (23 pages, 1325002 bytes).
+Output written on "c:\Users\lachl\Proton Drive\3dFx3Z2w7VxlWxPhpZUNIZpInRna\My files\my textbooks\Physics\build\Physics.pdf" (25 pages, 1368335 bytes).
 PDF statistics:
- 440 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 722 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 561 words of extra memory for PDF output out of 10000 (max. 10000000)
 
