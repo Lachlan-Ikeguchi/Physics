@@ -12,3 +12,7 @@
    1. Give nessesary information \[
    2. Calculate align*
 5. Give important notes if needed (note)
+
+3 new lines between chapters
+2 new lines between sections
+1 new line between subsections
